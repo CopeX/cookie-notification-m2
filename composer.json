@@ -1,0 +1,35 @@
+{
+  "name": "copex/cookie-notification-m2",
+  "description": "Magento 2 extension to inform users about use and management of your website cookies, based on wapone",
+  "type": "magento2-module",
+  "version": "0.0.1",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "require": {
+    "php": "~5.5.0|~5.6.0|~7.0"
+  },
+  "authors": [
+    {
+      "name": "CopeX",
+      "email": "office@copex.io",
+      "homepage": "https://copex.io",
+      "role": "Developer"
+    },
+    {
+      "name": "WaPoNe",
+      "email": "michele@fantetti.net",
+      "homepage": "http://www.fantetti.net",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "CopeX\\CookieNotification\\": ""
+    }
+  }
+}

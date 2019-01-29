@@ -1,0 +1,39 @@
+"Same Frame","Gleiche Seite"
+"New Window","Neues Fenster"
+Top,Obeno
+Bottom,Unten
+"Field must have length of 6","Feld muss 6 Zeichen besitzen"
+"Cookie Notification","Cookie Benachrichtigung"
+"Functional Settings","Funktionale Einstellungen"
+"Enable Module","Modul aktivieren"
+"Enable / disable module","Modul ein-/ausschalten"
+"Cookie Lifetime","Cookie Lifetime"
+"Default value is 3600","Standardwert: 3600"
+"Cookie Path","Cookie Pfad"
+"Cookie Domain","Cookie Domain"
+"Design Settings","Darstellung"
+"Message Position","Position der Nachricht"
+"Where the cookie message should appear","Wo soll die Nachricht erscheinen?"
+Message,Nachricht
+"Message Text Color","Textfarbe"
+"Hexadecimal value, without #: ex. FFFFFF","HTML-Notation ohne #: z.b: FFFFFF"
+"Message Background Color","Hintergrundfarbe"
+"Cookie More Button Text","Mehr Informationen Text"
+"Cookie More Button Text Color","Farbe des 'Mehr Inormationen' Textes"
+"Cookie More Button Background Color","'Mehr Informationen' Hintergrund Farbe"
+"Cookie More Button Link","'Mehr Informationen' Link"
+"Cookie More Button Link Destination","'Mehr Informationen' Ziel"
+"
+                        <br />
+                        <strong>Same Frame</strong>: Opens the window in the same frame, it means existing window itself.<br />
+                        <strong>New Window</strong>: Opens a new window and show the related data.
+
+                    ","
+                        <br />
+                        <strong>Gleiche Seite</strong>: Öffnet die Informationen auf der gleichen Seite.<br />
+                        <strong>Neues Fenster</strong>: Neues Fenster / Tab wird geöffnet.
+
+                    "
+"Cookie Allow Button Text","Cookie Erlauben Text"
+"Cookie Allow Button Text Color","Cookie Erlauben Textfarbe"
+"Cookie Allow Button Background Color","Cookie Erlauben Hintergrundfarbe"
